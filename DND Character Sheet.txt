@@ -1,0 +1,109 @@
+General
+Name: Typhairrayth (Typha for short) 
+(Ti-Fa)
+Race: Human Chimera (Half Dragon)
+Sex: Male
+Class: Cleric
+Alignment: Chaotic Neutral
+Appearance: 1.5/10
+Age: ?(Human), 891(Crystal Dragon), 1 (Chimera)
+Height: 6’ 3”
+Weight: 259
+Eyes: One Crystal Dragon eye (right) one Blue human eye (left)
+Skin: White Male Scales Scattered about
+Hair: Shoulder length white hair
+
+Stats
+HP: 8/8
+Hit Dice: 1d8 (or 5) + your CON modifier
+Initiative: +3
+Armor Class: 13 (+2 cus dragon)
+Walking Speed: 30 ft
+Saving Throws: WIS (+6) & CHA (+4)
+Proficiency Bonus: +2
+STR 11 (+0)
+DEX 16 (+3)
+CON 11 (+0)
+INT 14 (+2)
+WIS 18 (+4)
+CHA 15 (+2)
+
+
+Skills
+Acrobatics +3
+Animal Handling +4
+Arcana +2
+Athletics +0
+Deception +2
+History +2
++Insight +6 (16)
+Intimidation +2
+Investigation +2 (12)
+Medicine +4
+Nature +2
++Perception +4 (14)
+Performance +2
+Persuasion +4
+Religion +2
+Sleight of Hand +3
+Stealth +3
+Survival +4
+
+
+Weapons & Armor
+Draconic Scales - AC 12 (cannot wear armor)
+
+Holy Symbol - Amulet of Asgorath
+
+Inventory
+Gold: 350
+Wooden Mask (-1 to perception while worn)
+Priest’s Pack - Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
+
+
+Feats & Abilities
+Languages - Common & Draconic
+
+Peace Domain - As a worshipper of Asgorath, you gain the following spells per level; (1st) Heroism & Sanctuary, (3rd) Aid & Warding Bond, (5th) Beacon of Hope & Sending, (7th) Aura of Purity & Otiluke’s Resilient Sphere, (9th) Greater Restoration & Rary’s Telepathic Bond 
+
+Familiar: Tressym - You gain the service of a familiar. Appearing in an unoccupied space within range, the familiar has the Statistics of the chosen form, though it is a Celestial, fey, or fiend (your choice) instead of a beast. Your familiar acts independently of you, but it always obeys your commands. In Combat, it rolls its own Initiative and acts on its own turn. A familiar can't Attack, but it can take other Actions as normal. When the familiar drops to 0 Hit Points, it disappears, leaving behind no physical form. It reappears after you cast this spell again. While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any Special Senses that the familiar has. During this time, you are deaf and blind with regard to your own Senses. As an action, you can temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you. You can't have more than one familiar at a time. Finally, when you Cast a Spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its Reaction to deliver the spell when you cast it. If the spell requires an Attack roll, you use your Attack modifier for the roll.
+
+
+Spells
++4 Mod, +6 Spell Attack, 14 DC
+
+Cantrips
+Guidance - You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
+
+Sacred Flame - Flame-like radiance descends on a creature that you can see within 60 ft. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.
+
+Spare The Dying - You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
+
+Emboldening Bond - Starting at 1st level, you can forge an empowering bond among people who are at peace with one another. As an action, you choose a number of willing creatures within 30 feet of you (this can include yourself) equal to your proficiency bonus. You create a magical bond among them for 10 minutes or until you use this feature again. While any bonded creature is within 30 feet of another, the creature can roll a d4 and add the number rolled to an attack roll, an ability check, or a saving throw it makes. Each creature can add the d4 no more than once per turn.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+Level 1 Spells (2/2)
+https://5thsrd.org/spellcasting/spell_lists/cleric_spells/
+
+Heroism - A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
+
+Sanctuary - You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a fireball.
+If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.
+
+
+Background & References
+Background:
+Awoken in a forest by a catlike creature. I know nothing of my previous life. I have a voice that tells me its name is Typhairrayth. I guess this is my name now as well.I can tell my appearance is not that of a normal human despite his stature. I also feel as if my mind has changed. I feel smarter, more wise. I have memories that I do not recall ever making. I don't know what I am or how I was made. All I want to know is who I was before and where my memories are.
+
+Flaws:
+Looked down upon as an unholy abomination.
+Attacking causes immense amounts of pain causing 1 point of damage.
+Secluded due to the voice in his head and wavering mental state due to constant harassment he is slow to trust and hides his face from people.
+
+Aspiration:
+Acceptance
+Discovery
+
+Appearance:
+ A taller young white male with a crystalline dragon tail, dragon horns, one battered wing, and scattered patches of scales across the skin and hands of a dragon bone structure with nails as brittle as a human.
